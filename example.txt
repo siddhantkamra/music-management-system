@@ -1,0 +1,23 @@
+Title: "Yesterday"
+Artist: The Beatles
+Album: Help!
+Genre: Pop
+Release Year: 1965
+
+Title: "Hotel California"
+Artist: Eagles
+Album: Hotel California
+Genre: Indie
+Release Year: 1977
+
+Title: "Like a Rolling Stone"
+Artist: Bob Dylan
+Album: Highway 61 Revisited
+Genre: EDM
+Release Year: 1965
+
+Title: "Sweet Child o' Mine"
+Artist: Guns N' Roses
+Album: Appetite for Destruction
+Genre: Indie
+Release Year: 1987
